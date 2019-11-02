@@ -200,7 +200,7 @@
     [
         {
             "acrylicOpacity" : 1.0,
-            "backgroundImage" : "file:///D:/terminal/synthwave.gif",
+            "backgroundImage" : "ms-appdata:///local/backgrounds/synthwave.gif",
             "backgroundImageOpacity" : 0.5,
             "closeOnExit" : true,
             "colorScheme" : "Cyberpunk Neon",
@@ -220,7 +220,7 @@
         },
         {
             "acrylicOpacity" : 0.89999997615814209,
-            "backgroundImage" : "file:///%APPDATA%/.terminal/synthwave.gif",
+            "backgroundImage" : "ms-appdata:///local/backgrounds/synthwave.gif",
             "backgroundImageOpacity" : 0.5,
             "closeOnExit" : true,
             "colorScheme" : "Cyberpunk Neon",
@@ -240,7 +240,7 @@
         },
         {
             "acrylicOpacity" : 1.0,
-            "backgroundImage" : "file:///%APPDATA%/.terminal/synthwave.gif",
+            "backgroundImage" : "ms-appdata:///local/backgrounds/synthwave.gif",
             "backgroundImageOpacity" : 0.5,
             "closeOnExit" : true,
             "colorScheme" : "Cyberpunk Neon",
